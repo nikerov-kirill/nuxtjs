@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+  <p>Hello, hui!</p>
     <div>
       <logo />
       <h1 class="title">
